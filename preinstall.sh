@@ -1,4 +1,5 @@
 #!/bin/sh
+git checkout curso_pxp
 cd ..
 sudo ln -s pxp/lib lib
 sudo ln -s pxp/index.php index.php
